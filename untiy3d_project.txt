@@ -1,1 +1,2 @@
 orig line 1
+new line
